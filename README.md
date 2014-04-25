@@ -137,7 +137,8 @@ Typically, the current implementation of Roger Light's Mosquitto has an executab
 As well as accepting connections from MQTT client applications, Mosquitto has a bridge which allows it to connect to other MQTT servers, including other Mosquitto instances. This allows networks of MQTT servers to be constructed, passing MQTT messages from any location in the network to any other, depending on the configuration of the bridges.
 
 ## Californium (Cf) CoAP Framework
-[Californium (Cf)](http://projects.eclipse.org/projects/technology.californium) is an open source implementation of the Constrained Application Protocol (CoAP). It is written in Java and targets unconstrained environments such as back-end service infrastructures (e.g., proxies, resource directories, or management services) and less constrained environments such as embedded devices running Linux (e.g., smart home controllers or vehicle sensors). 
+[Californium (Cf)](http://projects.eclipse.org/projects/technology.californium) is an open source implementation of the Constrained Application Protocol (CoAP). It is written in Java and targets unconstrained environments such as back-end service infrastructures (e.g., proxies, resource directories, or management services) and less constrained environments such as embedded devices running Linux (e.g., smart home controllers or vehicle sensors).
+	* [github](https://github.com/mkovatsc/Californium)
 
 ## OM2M
 The [OM2M](http://projects.eclipse.org/projects/technology.om2m) project is an open source implementation of the ETSI M2M standard. It provides a framework for developing services independently of the underlying network and aims to facilitate deployment of vertical applications and heterogeneous devices. 
