@@ -152,3 +152,34 @@ The goal is to provide to java the same API as OpenZWave has.
 Besides the wrapper ZWave4J has a simple executable 'Main' class which demonstrates how to work with ZWave4J.
 
 ## mbed.org
+[mbed.org code](https://mbed.org/code/) is a site for the mbed development platform. Promoted as the fastest way to create products based on ARM microcontrollers. The project is being developed by ARM, its Partners and the contributions of the global mbed Developer Community. It has online compilers and code examples for all listed platforms.
+
+## RaspberryPi.org
+[RaspberryPi.org Downloads](http://www.raspberrypi.org/downloads/) provides several images of operating systems for the RaspberryPi boards.
+
+## Arduino
+[Arduino Software](http://arduino.cc/en/Main/Software) The open-source Arduino environment makes it easy to write code and upload it to the i/o board. It runs on Windows, Mac OS X, and Linux. The environment is written in Java and based on Processing, avr-gcc, and other open source software.
+
+## BeagleBoard Support
+[Software Support](http://beagleboard.org/Support/Software%20Support) Whatever your software preference, get started on development with your Beagle and the software resources below.
+
+# Devices
+* [mbed.org platforms and components](https://mbed.org/)
+	* [Platforms](https://mbed.org/platforms/)
+	* [Components](https://mbed.org/components/)
+* [Raspberry Pi](http://www.raspberrypi.org/)
+	* [Products](http://swag.raspberrypi.org/)
+	* [Adafruit Raspberry Pi](https://www.adafruit.com/category/105)
+* [BeagleBone Board](http://beagleboard.org/Products/BeagleBone)
+	* [Products](http://beagleboard.org/Products)
+	* [Adafruit BeagleBone](https://www.adafruit.com/products/1278)
+* [Arduino](http://www.arduino.cc/)
+	* [Products](http://store.arduino.cc/index.php)
+	* [Adafruit Arduino](https://www.adafruit.com/category/17)
+* General IoT Device and Supply Sites
+	* [element14](http://www.element14.com/community/welcome)
+	* [Adafruit](https://www.adafruit.com)
+	* [RS Components Ltd](http://uk.rs-online.com/web/) (United Kingdom)
+	* [RadioShack](http://www.radioshack.com/home/index.jsp)
+	* [Sparkfun](https://www.sparkfun.com/)
+	
