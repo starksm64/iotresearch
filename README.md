@@ -47,9 +47,7 @@ NFC always involves an initiator and a target; the initiator actively generates 
 	* **Range**: 300m Outdoor, 30m Indoors
 * [X-10](http://en.wikipedia.org/wiki/X10_(industry_standard)) - is a protocol for communication among electronic devices used for home automation (domotics). It primarily uses power line wiring for signaling and control, where the signals involve brief radio frequency bursts representing digital information. A wireless radio based protocol transport is also defined.
 * Z-Wave - [Z-Wave protocol](http://www.z-wavealliance.org/technology) is an interoperable wireless RF-based communications technology designed specifically for control, monitoring and status reading applications in residential and light commercial environments. Mature, proven and broadly deployed (25 million products sold worldwide), Z-Wave is by far the world market leader in wireless control, bringing affordable, reliable and easy-to-use 'smart' products to many millions of people in every aspect of daily life.
-* Zigbee - [ZigBee] (https://www.zigbee.org/Standards/Overview.aspx) After 10 years and millions of implementations every year, ZigBee standards prove you can rely on the widest variety of smart and easy-to-use products for just about anywhere you work, live or play. Our innovative standards are designed to let product manufacturers help their customers create their own Internet of Things and M2M wireless sensor networks to gain greater control of, and even improve, everyday activities.
 
-	ZigBee lets you easily and cost-effectively add intelligent new features that improve the efficiency, safety, security, reliability and convenience of your products. You can help your customers save both energy and money, or give them the tools they need to gain control of their homes. It's even possible to help people maintain their independence and allow them to closely monitor their health and fitness. 
         
 ## Wired
 --------------------
@@ -76,6 +74,11 @@ Every device on the Internet must be assigned an IP address in order to communic
         * The 6LoWPAN devices normally host a web server that is used for configuring and visualizing the users' data. Nowadays 6LoWPAN is just like the early stages of Internet (before search engines): If you wanted to address a web page, you needed to know the specific address of this server. In those early times, it was simple enough to write down or memorize this address. Now imagine that this address is randomly generated every time the server is restarted. The result is a hard-to-address web page, which is similar to the problem when configuring a 6LoWPAN. However, if the 6LoWPAN is properly configured, this will not be an issue.
 * UDP - [The User Datagram Protocol (UDP)](http://en.wikipedia.org/wiki/User_Datagram_Protocol) is one of the core members of the Internet protocol suite (the set of network protocols used for the Internet). With UDP, computer applications can send messages, in this case referred to as datagrams, to other hosts on an Internet Protocol (IP) network without prior communications to set up special transmission channels or data paths.
 * TCP - [The Transmission Control Protocol (TCP)](http://en.wikipedia.org/wiki/Transmission_Control_Protocol) is intended for use as a highly reliable host-to-host protocol between hosts in packet-switched computer communication networks, and in interconnected systems of such networks.
+* ZigBee - [ZigBee] (https://www.zigbee.org/Standards/Overview.aspx) After 10 years and millions of implementations every year, ZigBee standards prove you can rely on the widest variety of smart and easy-to-use products for just about anywhere you work, live or play. Our innovative standards are designed to let product manufacturers help their customers create their own Internet of Things and M2M wireless sensor networks to gain greater control of, and even improve, everyday activities.
+
+	ZigBee lets you easily and cost-effectively add intelligent new features that improve the efficiency, safety, security, reliability and convenience of your products. You can help your customers save both energy and money, or give them the tools they need to gain control of their homes. It's even possible to help people maintain their independence and allow them to closely monitor their health and fitness.
+
+	The most widely deployed enhancement to the 802.15.4 standard is ZigBee, which is a standard of the ZigBee Alliance. The organization maintains, supports, and develops more sophisticated protocols for advanced applications. It uses layers 3 and 4 to define additional communications features. These enhancements include authentication with valid nodes, encryption for security, and a data routing and forwarding capability that enables mesh networking. The most popular use of ZigBee is wireless sensor networks using the mesh topology.
 
 # Protocols and Languages
 * CoAP - [Constrained Application Protocol (CoAP)](http://en.wikipedia.org/wiki/Constrained_Application_Protocol) is a software protocol intended to be used in very simple electronics devices that allows them to communicate interactively over the Internet. It is particularly targeted for small low power sensors, switches, valves and similar components that need to be controlled or supervised remotely, through standard Internet networks. 
@@ -183,4 +186,6 @@ Besides the wrapper ZWave4J has a simple executable 'Main' class which demonstra
 	* [RS Components Ltd](http://uk.rs-online.com/web/) (United Kingdom)
 	* [RadioShack](http://www.radioshack.com/home/index.jsp)
 	* [Sparkfun](https://www.sparkfun.com/)
+	* [DigiKey](http://www.digikey.com/) 
+	* [Mouser Electronics](http://www.mouser.com/)
 	
